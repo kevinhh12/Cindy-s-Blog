@@ -1,0 +1,28 @@
+.gradient-background {
+    background: linear-gradient(300deg, #FAF1E6, #FDFAF6, #E4EFE7);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+  }
+
+.custom-bg {
+    background: #FAF1E6;
+}
+
+.content-1 img{
+    border-radius: 10%;
+    
+}
+
+.custom-font{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.white{
+    color: white;
+}
+
+h2{
+    font-weight: bolder;
+}
